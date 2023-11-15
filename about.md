@@ -1,0 +1,9 @@
+# About
+
+I am Programme Leader for the MSc Cyber Security at UWE Bristol, which is fully certified by the National Cyber Security Centre (NCSC). I teach Information Risk Management as part of the MSc Cyber Security. I also teach Security Data Analytics and Visualisation on the undergraduate BSc Cyber Security and Digital Forensics programme. I also supervise a number of undergraduate projects and postgraduate dissertations each year.
+
+I organise outreach educational activities with our local communities, involving schools and businesses. At UWE Bristol, we have hosted NCSC CyberFirst competitions and Cyber Security Challenge UK. We have also hosted education events for local school teachers, and we have industry partners that we collaborative with to deliver workshop activities. I work closely with the NCSC team to support the CyberFirst Schools and Colleges programme.
+
+I am the lead for the UWE Foundry Cyber Security studio, where we host student-industry engagement projects, to provide crucial services out to industry whilst offering relavent experience for students to complement their studies. Previously funded projects have involved student-led penetration testing work on a commercial video conferencing platform, student consultancy, and design and delivery of practical-based cyber security workshops. The UWE Foundry has been developed in close partnership with the Institute of Coding.
+
+I am also a co-founder of CISSEUK (Colloquium on Information Systems Security Education UK), a recent UK initiative with long-standing US history that seeks to develop a collaborative learning and teaching community in Cyber Security, both across the UK and with CISSE USA. A key objective of CISSE UK is to better support the development of student experience and employability within cyber security.
