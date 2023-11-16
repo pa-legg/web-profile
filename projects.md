@@ -2,13 +2,13 @@
 
 ## 2022
 
-**Measuring the Suitability of Artificial Intelligence in Autonomous Resilience for Cyber Defence**
+### Measuring the Suitability of Artificial Intelligence in Autonomous Resilience for Cyber Defence
 * Craig Williams, Andrew McCarthy, Alasdair Vincent, Phil Legg
 * Funded by Defence Science and Technology Laboratory (£5k)
 * Collaboration with Trimetis Ltd. and PA Consulting Ltd.
 * September 2022 – November 2022
 
-**Cyber Security and Data Governance for SMEs**
+### Cyber Security and Data Governance for SMEs
 * Phil Legg, Felix Ritchie, Aida Abzhaparova, Thomas Win, Elizabeth Green, Martin Webley, Ian Johnson
 * Funded by National Cyber Security Centre (£40k)
 * September 2022 – March 2023
