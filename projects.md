@@ -1,5 +1,25 @@
 # Projects
 
+## 2023
+
+### CyberWEST: West of England Schools and Teachers
+* Phil Legg, Aida Abzhaparova, Alan Mills, Alma Oracevic (UoB), Nirosha Holton (UoE), Nathan Clarke (UoP), Sophie Fenn (OLA)
+* Funded by National Cyber Security Centre (£125k)
+* Collaboration with University of Bristol (UoB), University of Exeter (UoE), University of Plymouth (UoP) and Odyssey Learning Alliance (OLA).
+* October 2023 - March 2024
+
+### Cyber Sandpit: Linking cyber effects to mission objectives
+* Craig Williams, Andrew McCarthy, Nicola Turner, Phil Legg
+* Funded by Defence Science and Technology Laboratory (£50k UWE)
+* Collaboration with Trimetis Ltd. and Frazer Nash Consulting.
+* January 2023 - December 2023
+
+### Every human a sensor: crowdsourcing cyber data
+* Nicola Turner, Andrew McCarthy, Craig Williams, Phil Legg
+* Funded by Defence Science and Technology Laboratory (£41k UWE)
+* Collaboration with Trimetis Ltd. and Frazer Nash Consulting.
+* January 2023 - December 2023
+
 ## 2022
 
 ### Measuring the Suitability of Artificial Intelligence in Autonomous Resilience for Cyber Defence
@@ -20,7 +40,7 @@
 
 ### Transform Suspicious Activity Reports (SARs); UK's First Technology Line of Defence
 * Nic Ryder, Phil Legg, Demelza Hall, Sam Bourton, Diana Johnson
-* Funded by InnovateUK (£47k)
+* Funded by InnovateUK (£47k UWE)
 * Collaboration with Synalogik Innovations Ltd.
 * September 2022 – February 2024
 
