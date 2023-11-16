@@ -135,7 +135,7 @@
 * Funded by DSTL Centre for Defence Enterprise (£108k)
 * April 2015 - September 2015
 
-# 2013
+## 2013
 
 ### CITD: Corporate Insider Threat Detection
 * Phil Legg (RA), Jason Nurse, Oliver Buckley, Jassim Happa, Ioannis Agrafiotis, Michael Goldsmith, Sadie Creese
