@@ -1,25 +1,46 @@
 # Publications
 
+## 2023
+
+### Longitudinal risk-based security assessment of docker software container images
+
+* Alan Mills, Jonathan White and Phil Legg
+* Computers and Security, 2023 
+
+*Abstract:* As the use of software containerisation has increased, so too has the need for security research on their usage, with various surveys and studies conducted to assess the overall security posture of software container images. To date, there has been very little work that has taken a longitudinal view of container security to observe whether vulnerabilities are being resolved over time, as well as understanding the real-world implications of reported vulnerabilities, to assess the evolving security posture. In this work, we study the evolution of 380 software container images across 3 analysis periods between July 2022 and January 2023 to analyse maintenance and vulnerabilities factors over time. We sample across the 3 DockerHub categories: Official, Verified and OSS (Sponsored) Open Source Software. We found that the number of vulnerabilities present increased over time despite many containers receiving regular updates by providers. We also found that the choice of container OS can dramatically impact the number of reported vulnerabilities present over time, with Debian-based images typically having many more vulnerabilities that other Linux distributions, and with some containers still reporting vulnerabilities that date back as far as 1999. However, when taking into account additional reported attributes such as the attack vector required and the existence of a public exploit rated higher than negligible, we found that for each analysis period, less than 1% of all vulnerabilities present what we would consider as high risk real-world impact. Through our investigation, we aim to improve the understanding of the threat landscape posed by software containerisation that is further complicated by the discrepancies between different vulnerability reporting tools.
+
+[Link](https://www.sciencedirect.com/science/article/pii/S0167404823003887)
+
+
+### Federated Learning: Data Privacy and Cyber Security in Edge-Based Machine Learning
+
+* Jonathan White and Phil Legg
+* Data Protection in a Post-Pandemic Society, 2023
+
+*Abstract:* Machine learning is now a key component of many applications for understanding trends and characteristics within the wealth of data that may be processed, whether this be learning about customer preferences and travel preferences, forecasting future behaviour of stock markets, weather, or crime rates, classifying and recognising images and text content, or a whole host of other technologies that are becoming integrated as part of our daily lives. The raft of applications is broad and continues to grow daily. At the same time, there are growing concerns about the data protection, security and data privacy of such applications, as smart devices are embedded deeper in our daily activity. How can we ensure that this data that is gathered and utilised about our daily interactions can be best protected, in terms of ensuring systems are truly secure and that user’s privacy is maintained and assured? In this chapter, we explore the recent developments of federated learning, introduced by Google in 2016. This approach mandates that data remains at the place where it was collected, and that is it only data models that pass over the network. In this way, there is no centralised data storage, and no personal data leaves the point where it was generated. We present the recent works of this growing area of research, and we posit the challenges posed from both the data privacy and cyber security standpoints. We show how federated learning can be applied to a cyber security case study of distributed monitoring for Intrusion Detection. We also consider the wider implications of data privacy in machine learning and federated learning systems.
+
+[Link](https://link.springer.com/chapter/10.1007/978-3-031-34006-2_6)
+
 ## 2022
 
 ### Defending against Adversarial Machine Learning Attacks using Hierarchical Learning: A case study on Network Traffic Attack Classification
 
 * Andrew McCarthy, Essam Ghadafi, Panagiotis Andriotis, Phil Legg
-* Journal of Information Security and Applications, 2022 [ACCEPTED]
+* Journal of Information Security and Applications, 2022
 
 *Abstract:* Machine learning is key for automated detection of malicious network activity to ensure that computer networks and organizations are protected against cyber security attacks. Recently, there has been growing interest in the domain of adversarial machine learning, which explores how a machine learning model can be compromised by an adversary, resulting in misclassified output. Whilst to date, most focus has been given to visual domains, the challenge is present in all applications of machine learning where a malicious attacker would want to cause unintended functionality, including cyber security and network traffic analysis. We first present a study on conducting adversarial attacks against a well-trained network traffic classification model. We show how well-crafted adversarial examples can be constructed so that known attack types are misclassified by the model as benign activity. To combat this, we present a novel defensive strategy based on hierarchical learning to help reduce the attack surface that an adversarial example can exploit within the constraints of the parameter space of the intended attack. Our results show that our defensive learning model can withstand crafted adversarial attacks and can achieve classification accuracy in line with our original model when not under attack.
 JISAS
 
 ### Teaching Offensive and Defensive Cyber Security in Schools using a Raspberry Pi Cyber Range
 * Phil Legg, Alan Mills, Ian Johnson
-* Colloquium for Information Systems Security Education (CISSE), 2022 [ACCEPTED]
+* Colloquium for Information Systems Security Education (CISSE), 2022
 
 *Abstract:* Computer Science as a subject is now appearing in more school curricula for GCSE and A level, with a growing demand for cyber security to be embedded within this teaching. Yet, teachers face challenges with limited time and resource for preparing practical materials to effectively convey the subject matter. We hosted a series of workshops designed to understand the challenges that teachers face in delivering cyber security education. We then worked with teachers to co-create practical learning resources that could be further developed as tailored lesson plans, as required for their students. In this paper, we report on the challenges highlighted by teachers, and we present a portable and isolated infrastructure for teaching the basics of offensive and defensive cyber security, as a co-created activity based on the teacher workshops. Whilst we present an example case study for red and blue team student engagement, we also reflect on the wide scope of topics and tools that students would be exposed to through this activity, and how this platform could then be generalised for further cyber security teaching.
 CISSE Journal
 
 ### Interactive Cyber-Physical System Hacking: Engaging Students Early Using Scalextric
 * Jonathan White, Phil Legg, Alan Mills
-* Colloquium for Information Systems Security Education (CISSE), 2022 [ACCEPTED]
+* Colloquium for Information Systems Security Education (CISSE), 2022
 
 *Abstract:* Cyber Security as an education discipline covers a variety of topics that can be challenging and complex for students who are new to the subject domain. With this in mind, it is crucial that new students are motivated by understanding both the technical aspects of computing and networking, and the real-world implications of compromising these systems. In this paper we approach this task to create an engaging outreach experience, on the concept of cyber-physical systems, using a Scalextric slot-car racetrack. In the activity, students seek to compromise the underlying computer system that is linked to the track and updates the scoreboard system, in order to inflate their own score and to sabotage their opponent. Our investigation with this technique shows high levels of engagement whilst providing an excellent platform for teaching basic concepts of enumeration, brute forcing, and privilege escalation. It also provokes discussion on how this activity relates to real-world cases of cyber-physical systems security in the sports domain and beyond.
 CISSE Journal
