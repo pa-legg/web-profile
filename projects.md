@@ -143,14 +143,14 @@
 * Collaboration with Cisco Systems Ltd.
 * March 2013 - March 2015
 
-# 2010
+## 2010
 
 ### Sports Video Visualisation
 * Phil Legg (RA), David Chung, Matthew Parry, Iwan Griffiths, David Marshall, Min Chen
 * Funded by Welsh Government
 * July 2010 - March 2013
 
-# 2009
+## 2009
 ### TRI-Partite multimedia Object Description
 * Phil Legg (RA), Mark Hall, Jonathan Quinn, Philip Smart, Christopher Jones
 * Funded by European Commision
